@@ -1,0 +1,6 @@
+[[PackageA]]
+git-tree-sha1 = "f53f77b2360b0ecb25bdac25240cd258153df389"
+repo-rev = "somebranch"
+repo-url = "https://github.com/fredrikekre/PackageA.jl.git"
+uuid = "6efbc5e2-a8aa-11e8-15ec-732433cf4580"
+version = "0.1.0"

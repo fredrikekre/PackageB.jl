@@ -1,0 +1,2 @@
+using PackageB
+PackageB.greet()
